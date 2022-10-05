@@ -1,0 +1,3 @@
+interface Support {
+    support():void;
+}
