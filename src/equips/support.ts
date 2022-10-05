@@ -1,3 +1,3 @@
-interface Support {
+export interface Support {
     support():void;
 }
